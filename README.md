@@ -1,4 +1,4 @@
-# English :us-flag:
+# English
 
 ## Hi there I'm Shinobiu👋
 

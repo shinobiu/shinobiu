@@ -8,6 +8,8 @@
 - 🌱 Estou aprendendo JavaScript, Java, C#, C/C++
 - ⚡ Curiosidade: O nome Shinobiu é um apelido engraçado que surgiu jogando com amigos online
 
+#
+
 # English
 
 ## Hi there I'm Shinobiu👋

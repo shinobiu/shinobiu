@@ -1,4 +1,4 @@
-<div style="background-color:##036100; color: #eee;">
+<div style="background-color:#036100; color: #eee;">
 # Português Brasileiro
 
 ## Olá eu sou o Shinobiu👋

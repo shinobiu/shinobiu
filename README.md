@@ -1,6 +1,6 @@
 # Hi there I'm Shinobiu👋
 
-## About Me
+## About Me 😁
 
 - 🔭 I’m currently working on Telecommunications Manager
 - 🌱 I’m currently learning JavaScript, Java, C#, C/C++

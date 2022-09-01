@@ -1,5 +1,3 @@
-<div style="background-color:#036100; color: #eee;">
-
 # Português Brasileiro
 
 ## Olá eu sou o Shinobiu👋
@@ -9,8 +7,6 @@
 - 🔭 Trabalho hoje como Gerente de Telecomunicações
 - 🌱 Estou aprendendo JavaScript, Java, C#, C/C++
 - ⚡ Curiosidade: O nome Shinobiu é um apelido engraçado que surgiu jogando com amigos online
-
-</div>
 
 # English
 

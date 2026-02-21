@@ -1,11 +1,6 @@
 # My Stats
 <a href="https://github.com/shinobiu" />
 
-![Shinobiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinobiu&count_private=true&show_icons=true)
-<a href="https://github.com/shinobiu" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinobiu&langs_count=8&layout=compact)
-
-#
 # Português Brasileiro
 
 ### Olá eu sou o Shinobiu👋
